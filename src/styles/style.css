@@ -90,3 +90,14 @@ video {
 section {
     margin: 50px;
 }
+
+.text_line{
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    background-color: #862e9c;
+    border-radius: 4px;
+    color: #FFF;
+    font-size: 20px;
+    border: none;
+}
