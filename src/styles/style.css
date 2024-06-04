@@ -89,6 +89,8 @@ video {
 
 section {
     margin: 50px;
+    display: flex;
+    justify-content: center;
 }
 
 .text_line{
